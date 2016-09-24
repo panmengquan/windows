@@ -1,7 +1,7 @@
 package tedu.panmengquan.mine;
 
 public class Book {
-	private String title1111111;
+	private String title11111111111;
 	private String title;
 	private String Catalog;
 	private String img;
